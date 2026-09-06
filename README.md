@@ -1,4 +1,4 @@
-# Python 3D Wireframe Engine
+# 3D Wireframe Engine
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-yellow?style=flat-square)
@@ -41,8 +41,8 @@ Aplikasi ini mengimplementasikan matematika proyeksi perspektif, matriks transfo
 ### Instalasi dan Eksekusi
 1. Clone repositori:
    ```bash
-   git clone https://github.com/mshadiqaf/python-3d-wireframe-engine.git
-   cd python-3d-wireframe-engine
+   git clone https://github.com/mshadiqaf/3d-wireframe-engine.git
+   cd 3d-wireframe-engine
    ```
 2. Pasang dependensi:
    ```bash
